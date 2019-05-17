@@ -1,0 +1,7 @@
+{
+    "sketch": "Blink.ino",
+    "port": "/dev/cu.usbserial-DN050SEC",
+    "board": "arduino:avr:uno",
+    "programmer": "AVRISP mkII",
+    "output": "build"
+}
