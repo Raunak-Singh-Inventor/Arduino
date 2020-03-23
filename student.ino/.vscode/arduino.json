@@ -1,0 +1,6 @@
+{
+    "programmer": "AVRISP mkII",
+    "board": "arduino:avr:uno",
+    "port": "/dev/cu.usbmodem141201",
+    "sketch": "student.ino.ino"
+}
